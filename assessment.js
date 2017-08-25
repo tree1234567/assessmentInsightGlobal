@@ -3,7 +3,7 @@
 //#1:
 
 
-//I'm not sure how I would be using not here though I could wrap it with a module.exports and then call it in the node server
+//I'm not sure how I would be using node here though I could wrap it with a module.exports and then call it in the node server
 module.exports = {
     function(intA, intB, total = 0) {
 
