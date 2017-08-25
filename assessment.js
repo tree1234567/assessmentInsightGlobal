@@ -17,7 +17,7 @@ module.exports = {
     }
 }
 
-// the function's orginaly name was multiply
+// the function's orginal name was multiply
 console.log(multiply(100, 505));
 
 //#2:
